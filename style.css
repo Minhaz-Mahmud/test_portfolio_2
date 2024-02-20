@@ -88,7 +88,7 @@ nav{
     position: absolute;
     top: -15px;
     right: -20px;
-    font-size: 10em;
+    font-size: 5em;
     color: orange;
 }
 .nav-menu, .nav_menu_list{
@@ -686,16 +686,4 @@ footer{
 
 } 
 
-@media only screen and (max-width: 1080px) and (max-height: 2412px) {
-    body {
-        font-size: 16px;
-    }
-    .btn {
-        font-size: 18px;
-    }
 
-    .nav-name {
-        font-size: 24px;
-    }
-
-}
